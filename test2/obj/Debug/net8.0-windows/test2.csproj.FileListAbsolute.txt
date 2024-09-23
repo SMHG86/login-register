@@ -1,0 +1,104 @@
+C:\Users\NikRayane\source\repos\test2\test2\bin\Debug\net8.0-windows\test2.exe
+C:\Users\NikRayane\source\repos\test2\test2\bin\Debug\net8.0-windows\test2.deps.json
+C:\Users\NikRayane\source\repos\test2\test2\bin\Debug\net8.0-windows\test2.runtimeconfig.json
+C:\Users\NikRayane\source\repos\test2\test2\bin\Debug\net8.0-windows\test2.dll
+C:\Users\NikRayane\source\repos\test2\test2\bin\Debug\net8.0-windows\test2.pdb
+C:\Users\NikRayane\source\repos\test2\test2\obj\Debug\net8.0-windows\test2.Form1.resources
+C:\Users\NikRayane\source\repos\test2\test2\obj\Debug\net8.0-windows\test2.LoginForm.resources
+C:\Users\NikRayane\source\repos\test2\test2\obj\Debug\net8.0-windows\test2.RegisterForm.resources
+C:\Users\NikRayane\source\repos\test2\test2\obj\Debug\net8.0-windows\test2.csproj.GenerateResource.cache
+C:\Users\NikRayane\source\repos\test2\test2\obj\Debug\net8.0-windows\test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NikRayane\source\repos\test2\test2\obj\Debug\net8.0-windows\test2.AssemblyInfoInputs.cache
+C:\Users\NikRayane\source\repos\test2\test2\obj\Debug\net8.0-windows\test2.AssemblyInfo.cs
+C:\Users\NikRayane\source\repos\test2\test2\obj\Debug\net8.0-windows\test2.csproj.CoreCompileInputs.cache
+C:\Users\NikRayane\source\repos\test2\test2\obj\Debug\net8.0-windows\test2.dll
+C:\Users\NikRayane\source\repos\test2\test2\obj\Debug\net8.0-windows\refint\test2.dll
+C:\Users\NikRayane\source\repos\test2\test2\obj\Debug\net8.0-windows\test2.pdb
+C:\Users\NikRayane\source\repos\test2\test2\obj\Debug\net8.0-windows\test2.genruntimeconfig.cache
+C:\Users\NikRayane\source\repos\test2\test2\obj\Debug\net8.0-windows\ref\test2.dll
+C:\Users\NikRayane\Desktop\test2\test2\bin\Debug\net8.0-windows\test2.exe
+C:\Users\NikRayane\Desktop\test2\test2\bin\Debug\net8.0-windows\test2.deps.json
+C:\Users\NikRayane\Desktop\test2\test2\bin\Debug\net8.0-windows\test2.runtimeconfig.json
+C:\Users\NikRayane\Desktop\test2\test2\bin\Debug\net8.0-windows\test2.dll
+C:\Users\NikRayane\Desktop\test2\test2\bin\Debug\net8.0-windows\test2.pdb
+C:\Users\NikRayane\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.Form1.resources
+C:\Users\NikRayane\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.LoginForm.resources
+C:\Users\NikRayane\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.RegisterForm.resources
+C:\Users\NikRayane\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.csproj.GenerateResource.cache
+C:\Users\NikRayane\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NikRayane\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.AssemblyInfoInputs.cache
+C:\Users\NikRayane\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.AssemblyInfo.cs
+C:\Users\NikRayane\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.csproj.CoreCompileInputs.cache
+C:\Users\NikRayane\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.dll
+C:\Users\NikRayane\Desktop\test2\test2\obj\Debug\net8.0-windows\refint\test2.dll
+C:\Users\NikRayane\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.pdb
+C:\Users\NikRayane\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.genruntimeconfig.cache
+C:\Users\NikRayane\Desktop\test2\test2\obj\Debug\net8.0-windows\ref\test2.dll
+C:\Users\NikRayane\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.ChangePasswordForm.resources
+C:\Users\NikRayane\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.ChangeUsernameForm.resources
+C:\Users\NikRayane\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.UpdateProfileForm.resources
+C:\Users\Nafir-pc\Desktop\test2\test2\bin\Debug\net8.0-windows\test2.exe
+C:\Users\Nafir-pc\Desktop\test2\test2\bin\Debug\net8.0-windows\test2.deps.json
+C:\Users\Nafir-pc\Desktop\test2\test2\bin\Debug\net8.0-windows\test2.runtimeconfig.json
+C:\Users\Nafir-pc\Desktop\test2\test2\bin\Debug\net8.0-windows\test2.dll
+C:\Users\Nafir-pc\Desktop\test2\test2\bin\Debug\net8.0-windows\test2.pdb
+C:\Users\Nafir-pc\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.ChangePasswordForm.resources
+C:\Users\Nafir-pc\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.ChangeUsernameForm.resources
+C:\Users\Nafir-pc\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.Form1.resources
+C:\Users\Nafir-pc\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.LoginForm.resources
+C:\Users\Nafir-pc\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.RegisterForm.resources
+C:\Users\Nafir-pc\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.UpdateProfileForm.resources
+C:\Users\Nafir-pc\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.csproj.GenerateResource.cache
+C:\Users\Nafir-pc\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nafir-pc\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.AssemblyInfoInputs.cache
+C:\Users\Nafir-pc\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.AssemblyInfo.cs
+C:\Users\Nafir-pc\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.csproj.CoreCompileInputs.cache
+C:\Users\Nafir-pc\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.dll
+C:\Users\Nafir-pc\Desktop\test2\test2\obj\Debug\net8.0-windows\refint\test2.dll
+C:\Users\Nafir-pc\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.pdb
+C:\Users\Nafir-pc\Desktop\test2\test2\obj\Debug\net8.0-windows\test2.genruntimeconfig.cache
+C:\Users\Nafir-pc\Desktop\test2\test2\obj\Debug\net8.0-windows\ref\test2.dll
+C:\Users\NikRayane\Desktop\windows form demo\test2\bin\Debug\net8.0-windows\test2.exe
+C:\Users\NikRayane\Desktop\windows form demo\test2\bin\Debug\net8.0-windows\test2.deps.json
+C:\Users\NikRayane\Desktop\windows form demo\test2\bin\Debug\net8.0-windows\test2.runtimeconfig.json
+C:\Users\NikRayane\Desktop\windows form demo\test2\bin\Debug\net8.0-windows\test2.dll
+C:\Users\NikRayane\Desktop\windows form demo\test2\bin\Debug\net8.0-windows\test2.pdb
+C:\Users\NikRayane\Desktop\windows form demo\test2\obj\Debug\net8.0-windows\test2.ChangePasswordForm.resources
+C:\Users\NikRayane\Desktop\windows form demo\test2\obj\Debug\net8.0-windows\test2.ChangeUsernameForm.resources
+C:\Users\NikRayane\Desktop\windows form demo\test2\obj\Debug\net8.0-windows\test2.Form1.resources
+C:\Users\NikRayane\Desktop\windows form demo\test2\obj\Debug\net8.0-windows\test2.LoginForm.resources
+C:\Users\NikRayane\Desktop\windows form demo\test2\obj\Debug\net8.0-windows\test2.RegisterForm.resources
+C:\Users\NikRayane\Desktop\windows form demo\test2\obj\Debug\net8.0-windows\test2.UpdateProfileForm.resources
+C:\Users\NikRayane\Desktop\windows form demo\test2\obj\Debug\net8.0-windows\test2.csproj.GenerateResource.cache
+C:\Users\NikRayane\Desktop\windows form demo\test2\obj\Debug\net8.0-windows\test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NikRayane\Desktop\windows form demo\test2\obj\Debug\net8.0-windows\test2.AssemblyInfoInputs.cache
+C:\Users\NikRayane\Desktop\windows form demo\test2\obj\Debug\net8.0-windows\test2.AssemblyInfo.cs
+C:\Users\NikRayane\Desktop\windows form demo\test2\obj\Debug\net8.0-windows\test2.csproj.CoreCompileInputs.cache
+C:\Users\NikRayane\Desktop\windows form demo\test2\obj\Debug\net8.0-windows\test2.dll
+C:\Users\NikRayane\Desktop\windows form demo\test2\obj\Debug\net8.0-windows\refint\test2.dll
+C:\Users\NikRayane\Desktop\windows form demo\test2\obj\Debug\net8.0-windows\test2.pdb
+C:\Users\NikRayane\Desktop\windows form demo\test2\obj\Debug\net8.0-windows\test2.genruntimeconfig.cache
+C:\Users\NikRayane\Desktop\windows form demo\test2\obj\Debug\net8.0-windows\ref\test2.dll
+C:\Users\NikRayane\Desktop\windows form demo\test2\obj\Debug\net8.0-windows\test2.DeleteAccountForm.resources
+C:\Users\Nafir-pc\Desktop\windows form demo (1)\windows form demo\test2\bin\Debug\net8.0-windows\test2.exe
+C:\Users\Nafir-pc\Desktop\windows form demo (1)\windows form demo\test2\bin\Debug\net8.0-windows\test2.deps.json
+C:\Users\Nafir-pc\Desktop\windows form demo (1)\windows form demo\test2\bin\Debug\net8.0-windows\test2.runtimeconfig.json
+C:\Users\Nafir-pc\Desktop\windows form demo (1)\windows form demo\test2\bin\Debug\net8.0-windows\test2.dll
+C:\Users\Nafir-pc\Desktop\windows form demo (1)\windows form demo\test2\bin\Debug\net8.0-windows\test2.pdb
+C:\Users\Nafir-pc\Desktop\windows form demo (1)\windows form demo\test2\obj\Debug\net8.0-windows\test2.ChangePasswordForm.resources
+C:\Users\Nafir-pc\Desktop\windows form demo (1)\windows form demo\test2\obj\Debug\net8.0-windows\test2.ChangeUsernameForm.resources
+C:\Users\Nafir-pc\Desktop\windows form demo (1)\windows form demo\test2\obj\Debug\net8.0-windows\test2.DeleteAccountForm.resources
+C:\Users\Nafir-pc\Desktop\windows form demo (1)\windows form demo\test2\obj\Debug\net8.0-windows\test2.Form1.resources
+C:\Users\Nafir-pc\Desktop\windows form demo (1)\windows form demo\test2\obj\Debug\net8.0-windows\test2.LoginForm.resources
+C:\Users\Nafir-pc\Desktop\windows form demo (1)\windows form demo\test2\obj\Debug\net8.0-windows\test2.RegisterForm.resources
+C:\Users\Nafir-pc\Desktop\windows form demo (1)\windows form demo\test2\obj\Debug\net8.0-windows\test2.UpdateProfileForm.resources
+C:\Users\Nafir-pc\Desktop\windows form demo (1)\windows form demo\test2\obj\Debug\net8.0-windows\test2.csproj.GenerateResource.cache
+C:\Users\Nafir-pc\Desktop\windows form demo (1)\windows form demo\test2\obj\Debug\net8.0-windows\test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nafir-pc\Desktop\windows form demo (1)\windows form demo\test2\obj\Debug\net8.0-windows\test2.AssemblyInfoInputs.cache
+C:\Users\Nafir-pc\Desktop\windows form demo (1)\windows form demo\test2\obj\Debug\net8.0-windows\test2.AssemblyInfo.cs
+C:\Users\Nafir-pc\Desktop\windows form demo (1)\windows form demo\test2\obj\Debug\net8.0-windows\test2.csproj.CoreCompileInputs.cache
+C:\Users\Nafir-pc\Desktop\windows form demo (1)\windows form demo\test2\obj\Debug\net8.0-windows\test2.dll
+C:\Users\Nafir-pc\Desktop\windows form demo (1)\windows form demo\test2\obj\Debug\net8.0-windows\refint\test2.dll
+C:\Users\Nafir-pc\Desktop\windows form demo (1)\windows form demo\test2\obj\Debug\net8.0-windows\test2.pdb
+C:\Users\Nafir-pc\Desktop\windows form demo (1)\windows form demo\test2\obj\Debug\net8.0-windows\test2.genruntimeconfig.cache
+C:\Users\Nafir-pc\Desktop\windows form demo (1)\windows form demo\test2\obj\Debug\net8.0-windows\ref\test2.dll

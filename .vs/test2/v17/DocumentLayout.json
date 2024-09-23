@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|c:\\users\\nafir-pc\\desktop\\windows form demo (1)\\windows form demo\\test2\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|c:\\users\\nafir-pc\\desktop\\windows form demo (1)\\windows form demo\\test2\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|c:\\users\\nafir-pc\\desktop\\windows form demo (1)\\windows form demo\\test2\\updateprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\updateprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|c:\\users\\nafir-pc\\desktop\\windows form demo (1)\\windows form demo\\test2\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|c:\\users\\nafir-pc\\desktop\\windows form demo (1)\\windows form demo\\test2\\captchagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\captchagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|c:\\users\\nafir-pc\\desktop\\windows form demo (1)\\windows form demo\\test2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\updateprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\updateprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|c:\\users\\nafir-pc\\desktop\\windows form demo (1)\\windows form demo\\test2\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|c:\\users\\nafir-pc\\desktop\\windows form demo (1)\\windows form demo\\test2\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|c:\\users\\nafir-pc\\desktop\\windows form demo (1)\\windows form demo\\test2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|c:\\users\\nafir-pc\\desktop\\windows form demo (1)\\windows form demo\\test2\\changeusernameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\changeusernameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\deleteaccountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\deleteaccountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\changeusernameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\changeusernameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\Form1.cs",
+              "RelativeDocumentMoniker": "test2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\Form1.cs [Design]",
+              "RelativeToolTip": "test2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:15:11.623Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "test2\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "test2\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T13:11:08.663Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\LoginForm.cs",
+              "RelativeDocumentMoniker": "test2\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\LoginForm.cs [Design]",
+              "RelativeToolTip": "test2\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T13:11:06.581Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChangeUsernameForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\ChangeUsernameForm.cs",
+              "RelativeDocumentMoniker": "test2\\ChangeUsernameForm.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\ChangeUsernameForm.cs [Design]",
+              "RelativeToolTip": "test2\\ChangeUsernameForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T13:08:12.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChangePasswordForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\ChangePasswordForm.cs",
+              "RelativeDocumentMoniker": "test2\\ChangePasswordForm.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\ChangePasswordForm.cs [Design]",
+              "RelativeToolTip": "test2\\ChangePasswordForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T13:07:04.239Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateProfileForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\UpdateProfileForm.cs",
+              "RelativeDocumentMoniker": "test2\\UpdateProfileForm.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\UpdateProfileForm.cs [Design]",
+              "RelativeToolTip": "test2\\UpdateProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T13:07:00.87Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeleteAccountForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\DeleteAccountForm.cs",
+              "RelativeDocumentMoniker": "test2\\DeleteAccountForm.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\DeleteAccountForm.cs [Design]",
+              "RelativeToolTip": "test2\\DeleteAccountForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:33:51.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\Form1.cs",
+              "RelativeDocumentMoniker": "test2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\Form1.cs",
+              "RelativeToolTip": "test2\\Form1.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAywEMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:51:45.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\User.cs",
+              "RelativeDocumentMoniker": "test2\\User.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\User.cs",
+              "RelativeToolTip": "test2\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:11:44.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\UserManager.cs",
+              "RelativeDocumentMoniker": "test2\\UserManager.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\UserManager.cs",
+              "RelativeToolTip": "test2\\UserManager.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:19:06.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChangeUsernameForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\ChangeUsernameForm.cs",
+              "RelativeDocumentMoniker": "test2\\ChangeUsernameForm.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\ChangeUsernameForm.cs",
+              "RelativeToolTip": "test2\\ChangeUsernameForm.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAlwDMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:58:47.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "test2\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\PasswordHasher.cs",
+              "RelativeToolTip": "test2\\PasswordHasher.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:53:45.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChangePasswordForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\ChangePasswordForm.cs",
+              "RelativeDocumentMoniker": "test2\\ChangePasswordForm.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\ChangePasswordForm.cs",
+              "RelativeToolTip": "test2\\ChangePasswordForm.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAtwBwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:47:00.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CaptchaGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\CaptchaGenerator.cs",
+              "RelativeDocumentMoniker": "test2\\CaptchaGenerator.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\CaptchaGenerator.cs",
+              "RelativeToolTip": "test2\\CaptchaGenerator.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:29:47.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "test2\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\RegisterForm.cs",
+              "RelativeToolTip": "test2\\RegisterForm.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowD0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:21:25.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\LoginForm.cs",
+              "RelativeDocumentMoniker": "test2\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\LoginForm.cs",
+              "RelativeToolTip": "test2\\LoginForm.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowCQAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:38:29.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateProfileForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\UpdateProfileForm.cs",
+              "RelativeDocumentMoniker": "test2\\UpdateProfileForm.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\windows form demo (1)\\windows form demo\\test2\\UpdateProfileForm.cs",
+              "RelativeToolTip": "test2\\UpdateProfileForm.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwBEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:37:30.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

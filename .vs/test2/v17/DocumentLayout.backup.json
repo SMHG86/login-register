@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|c:\\users\\nikrayane\\desktop\\windows form demo\\test2\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|c:\\users\\nikrayane\\desktop\\windows form demo\\test2\\deleteaccountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\deleteaccountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|c:\\users\\nikrayane\\desktop\\windows form demo\\test2\\deleteaccountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\deleteaccountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|c:\\users\\nikrayane\\desktop\\windows form demo\\test2\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|c:\\users\\nikrayane\\desktop\\windows form demo\\test2\\changeusernameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\changeusernameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|c:\\users\\nikrayane\\desktop\\windows form demo\\test2\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|c:\\users\\nikrayane\\desktop\\windows form demo\\test2\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|c:\\users\\nikrayane\\desktop\\windows form demo\\test2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|c:\\users\\nikrayane\\desktop\\windows form demo\\test2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|c:\\users\\nikrayane\\desktop\\windows form demo\\test2\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|c:\\users\\nikrayane\\desktop\\windows form demo\\test2\\changeusernameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\changeusernameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|c:\\users\\nikrayane\\desktop\\windows form demo\\test2\\updateprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\updateprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|c:\\users\\nikrayane\\desktop\\windows form demo\\test2\\captchagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\captchagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|c:\\users\\nikrayane\\desktop\\windows form demo\\test2\\changepasswordform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D423BF0-5E74-47DF-B59D-1EE2A8A2A79A}|test2\\test2.csproj|solutionrelative:test2\\changepasswordform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\Form1.cs",
+              "RelativeDocumentMoniker": "test2\\Form1.cs",
+              "ToolTip": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\Form1.cs",
+              "RelativeToolTip": "test2\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:51:45.624Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "test2\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\PasswordHasher.cs",
+              "RelativeToolTip": "test2\\PasswordHasher.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:53:45.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteAccountForm.cs",
+              "DocumentMoniker": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\DeleteAccountForm.cs",
+              "RelativeDocumentMoniker": "test2\\DeleteAccountForm.cs",
+              "ToolTip": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\DeleteAccountForm.cs*",
+              "RelativeToolTip": "test2\\DeleteAccountForm.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:37:29.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteAccountForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\DeleteAccountForm.cs",
+              "RelativeDocumentMoniker": "test2\\DeleteAccountForm.cs",
+              "ToolTip": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\DeleteAccountForm.cs [Design]*",
+              "RelativeToolTip": "test2\\DeleteAccountForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:33:51.474Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChangePasswordForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\ChangePasswordForm.Designer.cs",
+              "RelativeDocumentMoniker": "test2\\ChangePasswordForm.Designer.cs",
+              "ToolTip": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\ChangePasswordForm.Designer.cs",
+              "RelativeToolTip": "test2\\ChangePasswordForm.Designer.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwEoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T17:45:20.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChangeUsernameForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\ChangeUsernameForm.Designer.cs",
+              "RelativeDocumentMoniker": "test2\\ChangeUsernameForm.Designer.cs",
+              "ToolTip": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\ChangeUsernameForm.Designer.cs",
+              "RelativeToolTip": "test2\\ChangeUsernameForm.Designer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAUwE4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T17:23:11.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CaptchaGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\CaptchaGenerator.cs",
+              "RelativeDocumentMoniker": "test2\\CaptchaGenerator.cs",
+              "ToolTip": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\CaptchaGenerator.cs",
+              "RelativeToolTip": "test2\\CaptchaGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:29:47.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\User.cs",
+              "RelativeDocumentMoniker": "test2\\User.cs",
+              "ToolTip": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\User.cs",
+              "RelativeToolTip": "test2\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:11:44.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\UserManager.cs",
+              "RelativeDocumentMoniker": "test2\\UserManager.cs",
+              "ToolTip": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\UserManager.cs*",
+              "RelativeToolTip": "test2\\UserManager.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:19:06.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChangeUsernameForm.cs",
+              "DocumentMoniker": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\ChangeUsernameForm.cs",
+              "RelativeDocumentMoniker": "test2\\ChangeUsernameForm.cs",
+              "ToolTip": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\ChangeUsernameForm.cs",
+              "RelativeToolTip": "test2\\ChangeUsernameForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA+wBgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:58:47.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateProfileForm.cs",
+              "DocumentMoniker": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\UpdateProfileForm.cs",
+              "RelativeDocumentMoniker": "test2\\UpdateProfileForm.cs",
+              "ToolTip": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\UpdateProfileForm.cs",
+              "RelativeToolTip": "test2\\UpdateProfileForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:37:30.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChangePasswordForm.cs",
+              "DocumentMoniker": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\ChangePasswordForm.cs",
+              "RelativeDocumentMoniker": "test2\\ChangePasswordForm.cs",
+              "ToolTip": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\ChangePasswordForm.cs",
+              "RelativeToolTip": "test2\\ChangePasswordForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:47:00.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\Form1.cs",
+              "RelativeDocumentMoniker": "test2\\Form1.cs",
+              "ToolTip": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\Form1.cs [Design]",
+              "RelativeToolTip": "test2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:15:11.623Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\LoginForm.cs",
+              "RelativeDocumentMoniker": "test2\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\LoginForm.cs",
+              "RelativeToolTip": "test2\\LoginForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:38:29.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "test2\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\NikRayane\\Desktop\\windows form demo\\test2\\RegisterForm.cs",
+              "RelativeToolTip": "test2\\RegisterForm.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwD4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:21:25.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
